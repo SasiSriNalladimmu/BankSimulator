@@ -69,10 +69,6 @@ javac *.java
 java BankOfficer
 mkdir data
 touch data/accounts.txt data/officers.txt data/transactions.txt
-📬 Contact
-Made with ❤️ by Kunchapu Gowri Sai
-📧 Email: kunchapugowrisai143@gmail.com
-📍 Andhra Pradesh, India
 
 📃 License
 This project is open source and free to use under the MIT License.
