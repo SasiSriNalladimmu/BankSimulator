@@ -1,0 +1,15 @@
+Sun Jul 20 20:38:51 IST 2025 - Account created for Chandra (GS55645899)
+Sun Jul 20 20:40:38 IST 2025 - Deposited ?1000000.0 to GS55645899
+Sun Jul 20 20:41:03 IST 2025 - Withdrew ?13568.0 from GS55645899
+Sun Jul 20 22:30:52 IST 2025 - Account created for Chandra (GS68996134)
+Sun Jul 20 22:50:49 IST 2025 - Deposited ?2.5004E7 to GS68996134
+Sun Jul 20 22:51:14 IST 2025 - Withdrew ?497970.0 from GS68996134
+Sun Jul 20 22:53:45 IST 2025 - Withdrew ?6778.0 from GS68996134
+Sun Jul 20 22:59:03 IST 2025 - Deposited ?6,700.00 to GS68996134
+Sun Jul 20 23:03:53 IST 2025 - Deposited ?56789.0 to GS68996134
+Mon Jul 21 17:27:17 IST 2025 - Account created for Nirmala (GS80169670)
+Mon Jul 21 17:28:14 IST 2025 - Deposited \u20B945000.0 to GS80169670
+Mon Jul 21 17:31:19 IST 2025 - Deposited ?45000.0 to GS80169670
+Mon Jul 21 17:34:08 IST 2025 - Deposited ?5000.0 to GS80169670
+Mon Jul 21 17:35:00 IST 2025 - Deposited Rs. 6000.0 to GS80169670
+Mon Jul 21 17:35:30 IST 2025 - Withdrew Rs. 75000.0 from GS80169670
